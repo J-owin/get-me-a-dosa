@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <div className=" flex justify-center gap-4 text-white flex-col h-[44vh] items-center">
-        <div className="font-bold text-5xl flex items-center justify-center">Buy Me a Chai <span><img className="dosa " width={88} src="/dosa.png" alt="" /></span></div>
+        <div className="font-bold text-5xl flex items-center justify-center">Buy Me a Dosa <span><img className="dosa " width={88} src="/dosa.png" alt="" /></span></div>
         <p>
           A crowdfunding platform for creators. Get funded by your fans and followers. Start now!
         </p>
@@ -81,7 +81,7 @@ export default function Home() {
           Learn more about us.
         </h2>
 
-        <iframe width="1026" className="" height="577" src="https://www.youtube.com/embed/QtaorVNAwbI?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w" title="Project GetMeAChai - Patreon Clone in Next.js | Sigma Web Development Course - Tutorial #131" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        <iframe width="1026" className="" height="577" src="https://www.youtube.com/embed/QtaorVNAwbI?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w" title="Project GetMeADosa - Patreon Clone in Next.js | Sigma Web Development Course - Tutorial #131" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
       </div>
     </>
   );
