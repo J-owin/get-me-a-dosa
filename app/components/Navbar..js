@@ -84,7 +84,7 @@ const Navbar = () => {
 
                 <li>
                   <Link
-                    href="#"
+                    href="`/${session.user.username}`"
                     className="inline-flex items-center w-full p-2 hover:bg-gray-700 hover:text-white rounded"
                   >
                     Settings
